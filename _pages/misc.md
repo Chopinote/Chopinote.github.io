@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-Outside of research, I enjoy listening to classical music and playing the piano (I'm a Chopin enthusiast 🎹), photography, and hiking. I'm also a fan of Eason Chan, Stefanie Sun, Fish Leong and Faye Wong.
+Outside of research, I enjoy listening to classical music, playing the piano (I'm a Chopin enthusiast 🎹) and photography. I'm also a fan of Eason Chan, Stefanie Sun, Fish Leong and Faye Wong.
 
 ### Favorite Albums
 
