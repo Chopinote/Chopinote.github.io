@@ -2,7 +2,7 @@
 layout: page
 permalink: /notes/
 title: Notes
-description: Course notes and learning materials.
+description:
 nav: true
 nav_order: 3
 ---
