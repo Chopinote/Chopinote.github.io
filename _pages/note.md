@@ -11,7 +11,7 @@ nav_order: 3
 
 I participated in a reading group on causal inference, high-dimensional statistics, and individualized treatment regimes, organized by [Prof. Yuqian Zhang](https://yuqianruc.github.io) at the Institute of Statistics and Big Data, Renmin University of China, during Fall 2025.
 
-- Slides on [Cai, Li & Tan (2024), "Semi-Supervised Triply Robust Inductive Transfer Learning"](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2393463){:target="_blank"}: [[PDF]](/assets/pdf/slide.pdf){:target="_blank"}
+- Slides on [Cai, Li & Liu (2025), "Semi-Supervised Triply Robust Inductive Transfer Learning"](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2393463){:target="_blank"}: [[PDF]](/assets/pdf/slide.pdf){:target="_blank"}
 
 ### Semiparametric Theory
 
