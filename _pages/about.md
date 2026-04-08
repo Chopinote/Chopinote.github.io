@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   <a href="https://github.com/Chopinote">GitHub</a> | <a href="https://www.linkedin.com/in/zhanhao-yan-341409322/">LinkedIn</a>
