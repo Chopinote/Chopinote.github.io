@@ -1,8 +1,21 @@
 /*******************************************************************************
  * Typography styles: Headings, text, links, tables, blockquotes
  ******************************************************************************/
-
 @use "variables" as v;
+body {
+  font-family: 'Source Sans 3', 'Noto Sans SC', sans-serif;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lora', 'Noto Sans SC', serif;
+  font-weight: 500;
+}
+
+.post-title {
+  font-weight: 500;
+  font-size: 2.5rem;
+}
 
 p,
 h1,
