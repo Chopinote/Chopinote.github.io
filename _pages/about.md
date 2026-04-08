@@ -6,7 +6,7 @@ subtitle: Incoming PhD Student in Statistics and Operations Research
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image:
   image_circular: false
   more_info:
 
