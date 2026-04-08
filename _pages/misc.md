@@ -17,8 +17,10 @@ Outside of research, I enjoy listening to classical music and playing the piano 
 - Fish Leong — [*Courage*](https://music.apple.com/cn/album/%E5%8B%87%E6%B0%A3/1692291088)
 - Faye Wong — [*Sing and Play*](https://music.apple.com/cn/album/%E5%94%B1%E9%81%8A/965771664)
 
-### Favorite Chopin Pieces
+### Favorite Classical Pieces
 
-- Ballade No. 4 in G minor, Op. 23
-- Piano Concerto No. 1 in E minor, Op. 11
-- Scherzo No. 2 in B-flat minor, Op. 31
+- Chopin — [Ballade No. 4 in F minor, Op. 52](https://www.youtube.com/watch?v=pe-GrRQz8pk){:target="_blank"}
+- Chopin — [Piano Concerto No. 1 in E minor, Op. 11](https://www.youtube.com/watch?v=UcOjKXIR8Iw)
+- Beethoven — [Violin Concerto in D major, Op. 61](https://www.youtube.com/watch?v=63wnAWwv7RA)
+- Mahler — [Symphony No. 3 in D minor](https://www.youtube.com/watch?v=sA7BPdZgxGk)
+- Rachmaninoff — [Piano Concerto No. 2 in C minor, Op. 18](https://www.youtube.com/watch?v=l4zkc7KEvYM)
