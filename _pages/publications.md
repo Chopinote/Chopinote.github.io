@@ -11,7 +11,6 @@ nav_order: 2
 
 - **Statistical Learning for Latent Embedding Alignment with Application to Brain Encoding and Decoding**
   <br> Shuoxun Xu\*, **Zhanhao Yan**\*, and Lexin Li. (\*equal contribution)
-  <br> Submitted to *Journal of the American Statistical Association*.
   <br> [[arXiv]](https://arxiv.org/abs/2603.21042){:target="_blank"}
 
 - **On the Role of Surrogates in Semi-Supervised Linear Regression**
