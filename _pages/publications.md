@@ -2,19 +2,26 @@
 layout: page
 permalink: /research/
 title: Research
-description: 
+description:
 nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+### Publications & Preprints
 
-<!-- Bibsearch Feature -->
+- **Statistical Learning for Latent Embedding Alignment with Application to Brain Encoding and Decoding**
+  <br> Shuoxun Xu\*, **Zhanhao Yan**\*, and Lexin Li. (\*equal contribution)
+  <br> Submitted to *Journal of the American Statistical Association*.
+  <br> [[arXiv]](https://arxiv.org/abs/2603.21042){:target="_blank"}
 
-{% include bib_search.liquid %}
+- **On the Role of Surrogates in Semi-Supervised Linear Regression**
+  <br> Kai Chen, **Zhanhao Yan**, and Yuqian Zhang.
+  <br> Manuscript available upon request.
 
-<div class="publications">
+### Ongoing Research
 
-{% bibliography %}
+- **Counterfactual Image Generation with Generative Priors**
+  <br> with [Prof. Lexin Li](https://lexinli.biostat.berkeley.edu/) (UC Berkeley)
 
-</div>
+- **Point Processes and Diffusion Models for Brain Connectivity Analysis**
+  <br> with [Prof. Zhengwu Zhang](https://zhengwustat.github.io/) (UNC Chapel Hill)
