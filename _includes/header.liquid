@@ -6,15 +6,7 @@
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% if site.title == 'blank' %}
             {% if site.first_name %}
-              <span>
-                {{- site.first_name -}}
-              </span>
-            {% endif %}
-            {% if site.middle_name %}
-              {{- site.middle_name -}}
-            {% endif %}
-            {% if site.last_name %}
-              {{- site.last_name -}}
+              <span>{{- site.first_name -}}</span> Yan <span style="font-size: 0.75em;">(闫展豪)</span>
             {% endif %}
           {% else %}
             {{- site.title -}}
