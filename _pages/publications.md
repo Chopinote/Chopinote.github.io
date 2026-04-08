@@ -24,4 +24,4 @@ nav_order: 2
   <br> with [Prof. Lexin Li](https://lexinli.biostat.berkeley.edu/) (UC Berkeley)
 
 - **Point Processes and Diffusion Models for Brain Connectivity Analysis**
-  <br> with [Prof. Zhengwu Zhang](https://zhengwustat.github.io/) (UNC Chapel Hill)
+  <br> with [Prof. Zhengwu Zhang](https://zhengwu.github.io) (UNC Chapel Hill)
