@@ -19,8 +19,8 @@ nav_order: 2
 
 ### Ongoing Research
 
-- **Counterfactual Image Generation with Generative Priors**
-  <br> with [Prof. Lexin Li](https://lexinli.biostat.berkeley.edu/) (UC Berkeley)
+- **Improving Counterfactual Image Generation with Generative Priors**
+  <br> with Shuoxun Xu and [Prof. Lexin Li](https://lexinli.biostat.berkeley.edu/) (UC Berkeley)
 
 - **Point Processes and Diffusion Models for Brain Connectivity Analysis**
   <br> with [Prof. Zhengwu Zhang](https://zhengwu.github.io) (UNC Chapel Hill)
