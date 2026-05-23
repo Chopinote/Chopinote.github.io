@@ -7,7 +7,7 @@ subtitle: >
 
 profile:
   align: right
-  image:
+  image: pic.JPG
   image_circular: false
   more_info:
 
