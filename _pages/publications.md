@@ -17,10 +17,11 @@ nav_order: 2
   <br> Kai Chen, **Zhanhao Yan**, and Yuqian Zhang.
   <br> Manuscript available upon request.
 
+- **Interpretable Generative Modeling of Brain Structural Connectivity via Functional Point Processes**
+  <br> **Zhanhao Yan**, Lexin Li, and Zhengwu Zhang.
+  <br> Manuscript available upon request.
+
 ### Ongoing Research
 
 - **Improving Counterfactual Image Generation with Generative Priors**
   <br> with Shuoxun Xu and [Prof. Lexin Li](https://lexinli.biostat.berkeley.edu/) (UC Berkeley)
-
-- **Point Processes and Diffusion Models for Brain Connectivity Analysis**
-  <br> with [Prof. Zhengwu Zhang](https://zhengwu.github.io) (UNC Chapel Hill)
