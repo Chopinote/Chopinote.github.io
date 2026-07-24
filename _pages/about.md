@@ -27,4 +27,4 @@ Welcome to my homepage! I am an incoming PhD student in [Statistics and Operatio
 
 My research interests center on **statistical machine learning (semi-supervised learning, transfer learning)**, **causal inference**, and applications to **neuroimaging data analysis**. I have been very fortunate to work with [Prof. Lexin Li](https://lexinli.biostat.berkeley.edu/) (UC Berkeley), [Prof. Yuqian Zhang](https://yuqianruc.github.io) (RUC) and [Prof. Zhengwu Zhang](https://zhengwu.github.io) (UNC Chapel Hill) during my undergraduate studies.
 
-You can find my CV <a href="{{ '/asset/pdf/CV_zhanhao.pdf' | relative_url }}" target="_blank">here</a>.
+You can find my CV <a href="{{ '/assets/pdf/CV_zhanhao.pdf' | relative_url }}" target="_blank">here</a>.
