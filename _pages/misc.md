@@ -12,7 +12,7 @@ Outside of research, I enjoy listening to classical music, playing the piano (I'
 ### Favorite Albums
 
 - Frédéric Chopin — [*Ballades - Barcarolle - Fantaisie* (Krystian Zimerman)](https://classical.music.apple.com/us/album/1440776206)
-- Eason Chan — [*What's Going On...?*](https://music.apple.com/cn/album/whats-going-on/1443345687)
+- Eason Chan — [*Life Continues*](https://music.apple.com/cn/album/life-continues/1442912707)
 - Stefanie Sun — [*The Moment*](https://music.apple.com/cn/album/the-moment/541856819)
 - Fish Leong — [*Courage*](https://music.apple.com/cn/album/%E5%8B%87%E6%B0%A3/1692291088)
 - Faye Wong — [*Sing and Play*](https://music.apple.com/cn/album/%E5%94%B1%E9%81%8A/965771664)
