@@ -17,7 +17,7 @@ nav_order: 2
   <br> Kai Chen, **Zhanhao Yan**, and Yuqian Zhang.
   <br> Manuscript available upon request.
 
-- **Interpretable Generative Modeling of Brain Structural Connectivity via Functional Point Processes**
+- **Generative Modeling of Point Process with Application to Brain Structural Connectivity Analysis**
   <br> **Zhanhao Yan**, Lexin Li, and Zhengwu Zhang.
   <br> Manuscript available upon request.
 
