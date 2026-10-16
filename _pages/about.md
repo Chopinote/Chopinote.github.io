@@ -7,7 +7,7 @@ subtitle: >
 
 profile:
   align: right
-  image: zhanhaoyan_img.jpg
+  image: portrait.png
   image_circular: false
   more_info:
 
