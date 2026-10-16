@@ -41,7 +41,7 @@ body.sticky-bottom-footer {
   }
 }
 
-// About page profile
+ // About page profile
 .post .profile {
   @media (min-width: 768px) {
     width: 45%;
@@ -52,7 +52,7 @@ body.sticky-bottom-footer {
 }
 
 // Portrait hover caption
-.portrait-container {
+.post .profile .portrait-container {
   position: relative;
   overflow: hidden;
   border-radius: 6px;
@@ -61,10 +61,11 @@ body.sticky-bottom-footer {
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 100%;
-    box-sizing: border-box;
+    right: 0;
+    z-index: 2;
 
     padding: 28px 12px 12px;
+    box-sizing: border-box;
 
     background: linear-gradient(
       to top,
@@ -74,16 +75,18 @@ body.sticky-bottom-footer {
 
     color: #fff;
     font-size: 13px;
-    text-align: center;
     line-height: 1.5;
+    text-align: center;
 
     opacity: 0;
-    transition: opacity 0.25s ease;
+    visibility: hidden;
+    transition: opacity 0.25s ease, visibility 0.25s ease;
     pointer-events: none;
   }
 
   &:hover .portrait-caption {
     opacity: 1;
+    visibility: visible;
   }
 }
 
